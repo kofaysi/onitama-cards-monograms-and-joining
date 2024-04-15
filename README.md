@@ -1,6 +1,6 @@
-# Onitama Custom Cards Extension
+# Onitama Custom Cards Manipulation
 
-This project involves creating new extension cards for the Onitama game. Detailed instructions guide you through the process of adding new cards, placing a monogram on them, and generating a PDF file formatted in A4 with a 2x2 grid of the new cards.
+This project involves rearranging existing cards for better printing and/or creating new extension cards, for the Onitama game. Detailed instructions guide you through the process of adding new cards, placing a monogram on them, and generating a PDF file formatted in A4 with a 2x2 grid of the new cards.
 
 ## Prerequisites
 
